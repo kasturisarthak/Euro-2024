@@ -9,7 +9,6 @@ The data for this project can be obtained from the following sources:
 - [FIFA World Ranking Dataset](https://www.kaggle.com/datasets/cashncarry/fifaworldranking?select=fifa_ranking-2024-04-04.csv): This dataset provides the FIFA rankings of national teams as of April 4, 2024.
 - [Predicting FIFA 2022 World Cup with ML](https://www.kaggle.com/code/sslp23/predicting-fifa-2022-world-cup-with-ml#WC-Simulation): This dataset includes various features and predictions related to FIFA World Cup matches.
 
-Please download these datasets and place them in a folder named `data` in the root directory of this project.
 
 ## Update
 New version of the project uses an unified database to remove home/away bias in international game. I retrained the model using this structure.
